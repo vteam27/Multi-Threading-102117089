@@ -13,8 +13,13 @@ Function explanation:
    - Performs matrix multiplication using multiple threads, dividing the task among them for parallel computation.
 
 The table corresponding to the time taken with respect to number of threads is as follows:
-<img width="813" alt="Screenshot 2024-04-12 at 3 44 33 PM" src="https://github.com/ThatSpaceCowboy/Multi-Threading-102117114/assets/41112158/51c89bbb-28f5-4e67-a88c-db5f63df7b96">
 
-Graph:
+![image](https://github.com/vteam27/Multi-Threading-102117089/assets/94956831/63c3bbd4-7382-43fd-8f27-caada09c3838)
+![image](https://github.com/vteam27/Multi-Threading-102117089/assets/94956831/abc500d1-df19-4a6c-b136-7329e9e3e151)
 
-![download](https://github.com/ThatSpaceCowboy/Multi-Threading-102117114/assets/41112158/83a9d656-9f81-4e37-bf75-c14998ca6874)
+
+### System Specs:
+![Screenshot 2024-04-19 122104](https://github.com/vteam27/Multi-Threading-102117089/assets/94956831/22ba0b34-6235-43be-896b-b57b07cedca4)
+
+
+
